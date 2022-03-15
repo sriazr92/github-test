@@ -1,1 +1,6 @@
 Hi This is my first practice echo created
+#Startup
+
+##Conditions
+
+##Code
